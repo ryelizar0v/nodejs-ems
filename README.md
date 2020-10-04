@@ -9,6 +9,8 @@ Exam code: Simple employee management system emulation using Node.js
 
 ## API routes
 
+**All routes use `POST` method**
+
 ### /auth/login
 
 * User log in
