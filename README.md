@@ -77,18 +77,18 @@ Request body format:
   "firstName": "FIRST_NAME", 
   "middleName": "MIDDLE_NAME", 
   "lastName": "LAST_NAME", 
-  "gender": "GENDER", // Male, Female, Other
+  "gender": "GENDER", /* Male, Female, Other */
   "dateOfBirth": "2020-10-04",
   "homeAddress": "ADDRESS",
   "emailAddress": "email@company.com",
   "contactNo": "09123456789",
   "jobDescription": "JOB_DESCRIPTION",
   "salary": "16000.00",
-  "employmentType": "EMPLOYMENT_TYPE", // Full time, Part time, Job contract
+  "employmentType": "EMPLOYMENT_TYPE", /* Full time, Part time, Job contract */
   "username": "USERNAME", 
   "password": "PASSWORD", 
-  "roleId": 3, // 1, 2, 3
-  "deptId": 1 // 1, 2, 3
+  "roleId": 3, /* 1, 2, 3 */
+  "deptId": 1 /* 1, 2, 3 */
 }
 ```
 
@@ -110,18 +110,18 @@ Request body format:
   "firstName": "FIRST_NAME", 
   "middleName": "MIDDLE_NAME", 
   "lastName": "LAST_NAME", 
-  "gender": "GENDER", // Male, Female, Other
+  "gender": "GENDER", /* Male, Female, Other */
   "dateOfBirth": "2020-10-04",
   "homeAddress": "ADDRESS",
   "emailAddress": "email@company.com",
   "contactNo": "09123456789",
   "jobDescription": "JOB_DESCRIPTION",
   "salary": "16000.00",
-  "employmentType": "EMPLOYMENT_TYPE", // Full time, Part time, Job contract
+  "employmentType": "EMPLOYMENT_TYPE", /* Full time, Part time, Job contract */
   "username": "USERNAME", 
   "password": "PASSWORD", 
-  "roleId": 3, // 1, 2, 3
-  "deptId": 1 // 1, 2, 3
+  "roleId": 3, /* 1, 2, 3 */
+  "deptId": 1 /* 1, 2, 3 */
 }
 ```
 
@@ -141,4 +141,4 @@ Request body format:
 {
   "employeeId": 1
 }
-``
+```
